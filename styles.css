@@ -4,9 +4,10 @@ h1,h6 {
 h2 {
   color: blue
 }
-h4 {
-  color: white;
-}
+
 body {
   background-color: skyblue;
+}
+h4 {
+  color: red;
 }
