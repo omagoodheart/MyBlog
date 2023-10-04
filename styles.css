@@ -15,5 +15,5 @@ i {
   color: lemon;
 }
 ul {
- list-style-type: revert;
+ list-style-type: revert-layer;
 }
