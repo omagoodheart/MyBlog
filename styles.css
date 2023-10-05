@@ -20,3 +20,10 @@ list-style-type: square;
 div {
   animation: mymove 5s infinite;
 }
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+  animation: mymove 5s infinite;
+}
