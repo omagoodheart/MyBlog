@@ -9,7 +9,7 @@ body {
   background-color: skyblue;
 }
 h4 {
-  color: silver;
+  color: purple;
 }
 i {
   color: lemon;
@@ -23,7 +23,7 @@ div {
 div {
   width: 100px;
   height: 100px;
-  background: red;
+  background: maron;
   position: relative;
   animation: mymove 5s infinite;
 }
