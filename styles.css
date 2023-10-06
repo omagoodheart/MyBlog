@@ -34,6 +34,17 @@ div {
 input[type=checkbox] {
   accent-color: red;
 }
+table, td, th {
+  border: 1px solid black;
+}
+
+#table1 {
+  border-collapse: separate;
+}
+
+#table2 {
+  border-collapse: collapse;
+}
 
 input[type=radio] {
   accent-color: green;
